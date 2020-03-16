@@ -1,4 +1,5 @@
 country,code,cases,new_cases,evolution,deaths,new_deaths,days_since_last_update,next_destination,arrivals_past_week,rolling_month_on_month_evolution
+Central African Republic,CF,568,54,0.0951,12,3,0,67,36,-0.26
 Republic of Korea,KR,7755,242,0.0312,60,6,0,22,14,-0.12
 Japan,JP,568,54,0.0951,12,3,0,67,36,-0.26
 Singapore,SG,166,6,0.0361,0,0,0,24,6,0
